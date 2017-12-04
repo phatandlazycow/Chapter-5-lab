@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Probability
+comment1.params=amount\ sample
+comment1.target=Probability(double,\ double)
+comment2.params=
+comment2.target=double\ getChance()
+comment3.params=p2
+comment3.target=double\ probabilityAND(Probability)
+comment4.params=p2\ overlap
+comment4.target=double\ probabilityOR(Probability,\ double)
+numComments=5

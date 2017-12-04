@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=computer
+comment0.target=void\ setChoice(boolean)
+comment0.text=\n\ Gets\ a\ String\ of\ "rock",\ "raper"\ or\ "scissors"\n\ Will\ be\ random\ if\ computer\ \=\ true\n
+comment1.params=computer
+comment1.target=java.lang.String\ setName(boolean)
+comment1.text=\n\ Set's\ the\ player\ name.\ \ If\ computer\ \=\ true,\ returns\ "CPU"\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Returns\ the\ name\ of\ the\ player,\ CPU\ if\ a\ computer\n
+comment3.params=
+comment3.target=java.lang.String\ randomChoice()
+comment3.text=\n\ If\ cpu\ then\ return\ a\ random\ choice\n
+comment4.params=
+comment4.target=java.lang.String\ getChoice()
+comment4.text=\n\ Returns\ the\ choice\ of\ the\ player\n
+comment5.params=
+comment5.target=int\ getScore()
+comment5.text=\n\ Returns\ the\ current\ player\ score\n
+comment6.params=value
+comment6.target=void\ updateScore(int)
+comment6.text=\n\ Updates\ the\ score\ based\ on\ win\n
+comment7.params=
+comment7.target=boolean\ getCPU()
+comment7.text=\n\ Returns\ true\ if\ the\ player\ is\ played\ by\ the\ computer\n
+numComments=8
